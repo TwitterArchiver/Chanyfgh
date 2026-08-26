@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "830242535360507904",
+    "conversation_id": "1987112319491727848",
+    "created_at": "2025-11-08T10:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T11:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987112319491727848"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987112319491727848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "姐妹们。我现在遇到一个情况想问问大家有没有什么办法支支招呀。前天我在淘宝阿里大药房买了很多补佳乐，都是22元一盒的。昨天我打开淘宝，我三个88VIP号码各送了我五张9折券，这样每盒补只要19.8元。于是我昨天申请了前天下单的订单中的13个订单(52盒)的退款准备把我15张九折券使用掉，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830242535360507904",
+        "conversation_id": "1987112319491727848",
+        "created_at": "2025-11-08T10:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T11:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987112319491727848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987112319491727848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姐妹们。我现在遇到一个情况想问问大家有没有什么办法支支招呀。前天我在淘宝阿里大药房买了很多补佳乐，都是22元一盒的。昨天我打开淘宝，我三个88VIP号码各送了我五张9折券，这样每盒补只要19.8元。于是我昨天申请了前天下单的订单中的13个订单(52盒)的退款准备把我15张九折券使用掉，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-02-11T02:30:20.000Z",
+        "description": "MTF 天空树女孩 HRT From 6.21.2022    \n 是@chengyiga的老婆 也是主仆关系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "chengyiga"
+              }
+            ]
+          }
+        },
+        "id": "830242535360507904",
+        "location": "六安",
+        "name": "洛米酱 Kuromi-chan",
+        "pinned_tweet_id": "1707687013229691289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611347283123245058/HHQ20db0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 408,
+          "like_count": 693,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 361
+        },
+        "username": "Chanyfgh",
+        "verified": false
+      }
+    ]
+  }
+}

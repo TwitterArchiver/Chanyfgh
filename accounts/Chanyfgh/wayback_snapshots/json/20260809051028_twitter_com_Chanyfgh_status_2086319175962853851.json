@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "830242535360507904",
+    "conversation_id": "2086319175962853851",
+    "created_at": "2026-08-09T05:10:28.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T06:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086319175962853851"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2086319175962853851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新环境里\nkuro：猜一下我的性别\n小x：女孩子\nkuro：是的\n小x：呼气（无奈😮‍💨脸）这是当然的啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830242535360507904",
+        "conversation_id": "2086319175962853851",
+        "created_at": "2026-08-09T05:10:28.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086319175962853851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086319175962853851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新环境里\nkuro：猜一下我的性别\n小x：女孩子\nkuro：是的\n小x：呼气（无奈😮‍💨脸）这是当然的啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-02-11T02:30:20.000Z",
+        "description": "MTF 天空树女孩 HRT From 6.21.2022    \n 是@chengyiga的老婆 也是主仆关系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "chengyiga"
+              }
+            ]
+          }
+        },
+        "id": "830242535360507904",
+        "is_identity_verified": false,
+        "location": "六安",
+        "most_recent_tweet_id": "2086319175962853851",
+        "name": "洛米酱 Kuromi-chan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/830242535360507904/1704025745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611347283123245058/HHQ20db0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 556,
+          "like_count": 837,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 475
+        },
+        "url": "",
+        "username": "Chanyfgh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

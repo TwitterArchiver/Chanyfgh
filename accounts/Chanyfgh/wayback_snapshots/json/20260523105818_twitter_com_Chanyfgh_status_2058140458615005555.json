@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "830242535360507904",
+    "conversation_id": "2058135896655032445",
+    "created_at": "2026-05-23T10:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T11:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058140458615005555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1847712034361659392",
+          "start": 0,
+          "username": "JiguangLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058140458615005555",
+    "in_reply_to_user_id": "1847712034361659392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058135896655032445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiguangLab 这孩子疯了？？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2058135886781681666",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_3rz8bEAIqM8T.jpg",
+        "width": 588
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2058135885447880704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_3ru-a4AAtKQ8.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830242535360507904",
+        "conversation_id": "2058135896655032445",
+        "created_at": "2026-05-23T10:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058140458615005555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1847712034361659392",
+              "start": 0,
+              "username": "JiguangLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058140458615005555",
+        "in_reply_to_user_id": "1847712034361659392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058135896655032445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiguangLab 这孩子疯了？？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058135886781681666",
+            "3_2058135885447880704"
+          ]
+        },
+        "author_id": "1847712034361659392",
+        "conversation_id": "2058135896655032445",
+        "created_at": "2026-05-23T10:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058135896655032445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6g74sWAMqD",
+              "end": 63,
+              "expanded_url": "https://x.com/JiguangLab/status/2058135896655032445/photo/1",
+              "media_key": "3_2058135886781681666",
+              "start": 40,
+              "url": "https://t.co/6g74sWAMqD"
+            },
+            {
+              "display_url": "pic.x.com/6g74sWAMqD",
+              "end": 63,
+              "expanded_url": "https://x.com/JiguangLab/status/2058135896655032445/photo/1",
+              "media_key": "3_2058135885447880704",
+              "start": 40,
+              "url": "https://t.co/6g74sWAMqD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058135896655032445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不得了？这个freeodwiki，墙内抖音，直播xd，我洗不到，我要？.... https://t.co/6g74sWAMqD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-02-11T02:30:20.000Z",
+        "description": "MTF 天空树女孩 HRT From 6.21.2022    \n 是@chengyiga的老婆 也是主仆关系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "chengyiga"
+              }
+            ]
+          }
+        },
+        "id": "830242535360507904",
+        "location": "六安",
+        "name": "洛米酱 Kuromi-chan",
+        "pinned_tweet_id": "1707687013229691289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611347283123245058/HHQ20db0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 501,
+          "like_count": 755,
+          "listed_count": 4,
+          "media_count": 68,
+          "tweet_count": 395
+        },
+        "username": "Chanyfgh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/eW2O3fXtGc TG交流群：https://t.co/97NEazf5eZ DC交流群：https://t.co/a6mR5WgaIN 提问箱：https://t.co/fI760pi6Zw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/eW2O3fXtGc"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/97NEazf5eZ"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/a6mR5WgaIN"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/fI760pi6Zw"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "极光实验室⚛️",
+        "pinned_tweet_id": "2058033792745648331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2123,
+          "following_count": 905,
+          "like_count": 24825,
+          "listed_count": 2,
+          "media_count": 415,
+          "tweet_count": 3164
+        },
+        "username": "JiguangLab",
+        "verified": false
+      }
+    ]
+  }
+}

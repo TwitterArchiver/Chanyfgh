@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "830242535360507904",
+    "conversation_id": "2065777140952612893",
+    "created_at": "2026-06-14T03:02:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T04:02:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065993248418701313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1101189825976303616",
+          "start": 0,
+          "username": "Ym4Fourth"
+        },
+        {
+          "end": 22,
+          "id": "2064837661320437760",
+          "start": 11,
+          "username": "luccccyr1m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065993248418701313",
+    "in_reply_to_user_id": "1101189825976303616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065777140952612893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ym4Fourth @luccccyr1m 老师，我也被那个人骗了，可以沟通沟通嘛"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [luccccyr1m].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "luccccyr1m",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "luccccyr1m"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065777050443710464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsdSEzaAAAeDPi.jpg",
+        "width": 1673
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065777050435387392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsdSExbAAAyfZG.jpg",
+        "width": 943
+      },
+      {
+        "height": 1245,
+        "media_key": "3_2065777050439516163",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsdSEyaAAMSVlV.jpg",
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830242535360507904",
+        "conversation_id": "2065777140952612893",
+        "created_at": "2026-06-14T03:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065993248418701313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1101189825976303616",
+              "start": 0,
+              "username": "Ym4Fourth"
+            },
+            {
+              "end": 22,
+              "id": "2064837661320437760",
+              "start": 11,
+              "username": "luccccyr1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065993248418701313",
+        "in_reply_to_user_id": "1101189825976303616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065777140952612893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ym4Fourth @luccccyr1m 老师，我也被那个人骗了，可以沟通沟通嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065777050443710464",
+            "3_2065777050435387392",
+            "3_2065777050439516163"
+          ]
+        },
+        "author_id": "1101189825976303616",
+        "conversation_id": "2065777140952612893",
+        "created_at": "2026-06-13T12:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065777140952612893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2064837661320437760",
+              "start": 8,
+              "username": "luccccyr1m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qhQsbAgFhj",
+              "end": 65,
+              "expanded_url": "https://x.com/Ym4Fourth/status/2065777140952612893/photo/1",
+              "media_key": "3_2065777050443710464",
+              "start": 42,
+              "url": "https://t.co/qhQsbAgFhj"
+            },
+            {
+              "display_url": "pic.x.com/qhQsbAgFhj",
+              "end": 65,
+              "expanded_url": "https://x.com/Ym4Fourth/status/2065777140952612893/photo/1",
+              "media_key": "3_2065777050435387392",
+              "start": 42,
+              "url": "https://t.co/qhQsbAgFhj"
+            },
+            {
+              "display_url": "pic.x.com/qhQsbAgFhj",
+              "end": 65,
+              "expanded_url": "https://x.com/Ym4Fourth/status/2065777140952612893/photo/1",
+              "media_key": "3_2065777050439516163",
+              "start": 42,
+              "url": "https://t.co/qhQsbAgFhj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065777140952612893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1261,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "骗子新开了了个号@luccccyr1m 还拿我当素材什么鬼？而且我买的明明不是普瑞 https://t.co/qhQsbAgFhj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-02-11T02:30:20.000Z",
+        "description": "MTF 天空树女孩 HRT From 6.21.2022    \n 是@chengyiga的老婆 也是主仆关系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "chengyiga"
+              }
+            ]
+          }
+        },
+        "id": "830242535360507904",
+        "location": "六安",
+        "name": "洛米酱 Kuromi-chan",
+        "pinned_tweet_id": "1707687013229691289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611347283123245058/HHQ20db0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 513,
+          "like_count": 795,
+          "listed_count": 4,
+          "media_count": 68,
+          "tweet_count": 407
+        },
+        "username": "Chanyfgh",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-28T18:38:08.000Z",
+        "description": "2024年1月14日含糖，100斤/165厘米，是小念最可爱的宝宝提问箱👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tnagxin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tnagxin",
+                "start": 0,
+                "url": "https://t.co/WIxKYpF0jL"
+              }
+            ]
+          }
+        },
+        "id": "1101189825976303616",
+        "location": "距离你1000米",
+        "name": "雨梦🍥",
+        "pinned_tweet_id": "1887229891927810247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935308151785394176/7Yjx61XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7576,
+          "following_count": 146,
+          "like_count": 939,
+          "listed_count": 19,
+          "media_count": 150,
+          "tweet_count": 556
+        },
+        "url": "https://t.co/WIxKYpF0jL",
+        "username": "Ym4Fourth",
+        "verified": false
+      }
+    ]
+  }
+}

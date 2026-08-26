@@ -1,0 +1,20 @@
+{
+  "name": "洛米酱 Kuromi-chan",
+  "username": "@Chanyfgh",
+  "bio": "MTF 天空树女孩 HRT From 6.21.2022    \n 是@chengyiga的老婆 也是主仆关系",
+  "location": "六安",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 45,
+        "start": 35,
+        "username": "chengyiga"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/1611347283123245058/HHQ20db0_normal.jpg"
+}

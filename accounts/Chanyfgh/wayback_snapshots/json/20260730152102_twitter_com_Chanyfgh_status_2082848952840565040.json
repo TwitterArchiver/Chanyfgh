@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "830242535360507904",
+    "conversation_id": "2082831015786279412",
+    "created_at": "2026-07-30T15:21:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082848952840565040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1628182955872129024",
+          "start": 0,
+          "username": "baifu080810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082848952840565040",
+    "in_reply_to_user_id": "1628182955872129024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082831015786279412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baifu080810 你怎么碰曲马多了🥹🥹😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2082831007661936640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOezxCLb0AAKfUV.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830242535360507904",
+        "conversation_id": "2082831015786279412",
+        "created_at": "2026-07-30T15:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082848952840565040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628182955872129024",
+              "start": 0,
+              "username": "baifu080810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082848952840565040",
+        "in_reply_to_user_id": "1628182955872129024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082831015786279412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baifu080810 你怎么碰曲马多了🥹🥹😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082831007661936640"
+          ]
+        },
+        "author_id": "1628182955872129024",
+        "conversation_id": "2082831015786279412",
+        "created_at": "2026-07-30T14:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082831015786279412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nTPf4UWzfg",
+              "end": 23,
+              "expanded_url": "https://x.com/baifu080810/status/2082831015786279412/photo/1",
+              "media_key": "3_2082831007661936640",
+              "start": 0,
+              "url": "https://t.co/nTPf4UWzfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082831015786279412",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nTPf4UWzfg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-02-11T02:30:20.000Z",
+        "description": "MTF 天空树女孩 HRT From 6.21.2022    \n 是@chengyiga的老婆 也是主仆关系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "chengyiga"
+              }
+            ]
+          }
+        },
+        "id": "830242535360507904",
+        "location": "六安",
+        "name": "洛米酱 Kuromi-chan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611347283123245058/HHQ20db0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 540,
+          "like_count": 825,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 459
+        },
+        "url": "",
+        "username": "Chanyfgh",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T00:01:08.000Z",
+        "description": "你好这里是白缚！直接叫haku就行！08/不登校/低浮上",
+        "id": "1628182955872129024",
+        "location": "银河铁道",
+        "name": "Hakukawaii",
+        "pinned_tweet_id": "1845832099548536875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640661273208832000/OKHEtjKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 237,
+          "like_count": 3083,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2111
+        },
+        "url": "",
+        "username": "baifu080810",
+        "verified": false
+      }
+    ]
+  }
+}

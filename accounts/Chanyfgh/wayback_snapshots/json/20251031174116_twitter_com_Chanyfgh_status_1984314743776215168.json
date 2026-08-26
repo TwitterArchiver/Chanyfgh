@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984314731151441925",
+        "3_1984314730719428610",
+        "3_1984314733529640960",
+        "3_1984314733097541632"
+      ]
+    },
+    "author_id": "830242535360507904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "1984314743776215168",
+    "created_at": "2025-10-31T17:41:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T18:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984314743776215168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Browse smarter, faster, and with less friction.",
+          "display_url": "pplx.ai/amsimekpa52336",
+          "end": 129,
+          "expanded_url": "https://pplx.ai/amsimekpa52336",
+          "images": [
+            {
+              "height": 1260,
+              "url": "https://pbs.twimg.com/news_img/1984314746561277952/9heaAFeY?format=jpg&name=orig",
+              "width": 2400
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1984314746561277952/9heaAFeY?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 106,
+          "status": 200,
+          "title": "A personal AI assistant for the web",
+          "unwound_url": "https://www.perplexity.ai/browser/claim-invite/OThiYWEyOTYtNTMwNi00NzJjLWE0NjQtMzBjMmY0NjAyNmI2?via=amsimekpa52336&dub_id=BQOBTPjlXIxovxjV",
+          "url": "https://t.co/xo04ACicm2"
+        },
+        {
+          "display_url": "pic.x.com/VcdFdTHAaT",
+          "end": 153,
+          "expanded_url": "https://x.com/Chanyfgh/status/1984314743776215168/photo/1",
+          "media_key": "3_1984314731151441925",
+          "start": 130,
+          "url": "https://t.co/VcdFdTHAaT"
+        },
+        {
+          "display_url": "pic.x.com/VcdFdTHAaT",
+          "end": 153,
+          "expanded_url": "https://x.com/Chanyfgh/status/1984314743776215168/photo/1",
+          "media_key": "3_1984314730719428610",
+          "start": 130,
+          "url": "https://t.co/VcdFdTHAaT"
+        },
+        {
+          "display_url": "pic.x.com/VcdFdTHAaT",
+          "end": 153,
+          "expanded_url": "https://x.com/Chanyfgh/status/1984314743776215168/photo/1",
+          "media_key": "3_1984314733529640960",
+          "start": 130,
+          "url": "https://t.co/VcdFdTHAaT"
+        },
+        {
+          "display_url": "pic.x.com/VcdFdTHAaT",
+          "end": 153,
+          "expanded_url": "https://x.com/Chanyfgh/status/1984314743776215168/photo/1",
+          "media_key": "3_1984314733097541632",
+          "start": 130,
+          "url": "https://t.co/VcdFdTHAaT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984314743776215168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "教你在线赚美元\n\n这个是世界TOP3的AI公司Perplexity为了抢占市场份额，为自家AI浏览器Comet做的拉新活动。很多人都在做，质量有保证。无成本风险。教程看不懂的地方就去Google一下\n\n邀请链接\nhttps://t.co/xo04ACicm2 https://t.co/VcdFdTHAaT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1864,
+        "media_key": "3_1984314731151441925",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mzvBDbQAUChWR.jpg",
+        "width": 1239
+      },
+      {
+        "height": 1764,
+        "media_key": "3_1984314730719428610",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mzu_cbQAIBH0F.jpg",
+        "width": 1239
+      },
+      {
+        "height": 1827,
+        "media_key": "3_1984314733529640960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mzvJ6bsAA6dRw.jpg",
+        "width": 1240
+      },
+      {
+        "height": 1868,
+        "media_key": "3_1984314733097541632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mzvITaYAAs5ZI.jpg",
+        "width": 1239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984314731151441925",
+            "3_1984314730719428610",
+            "3_1984314733529640960",
+            "3_1984314733097541632"
+          ]
+        },
+        "author_id": "830242535360507904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1984314743776215168",
+        "created_at": "2025-10-31T17:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T18:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984314743776215168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Browse smarter, faster, and with less friction.",
+              "display_url": "pplx.ai/amsimekpa52336",
+              "end": 129,
+              "expanded_url": "https://pplx.ai/amsimekpa52336",
+              "images": [
+                {
+                  "height": 1260,
+                  "url": "https://pbs.twimg.com/news_img/1984314746561277952/9heaAFeY?format=jpg&name=orig",
+                  "width": 2400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1984314746561277952/9heaAFeY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "A personal AI assistant for the web",
+              "unwound_url": "https://www.perplexity.ai/browser/claim-invite/OThiYWEyOTYtNTMwNi00NzJjLWE0NjQtMzBjMmY0NjAyNmI2?via=amsimekpa52336&dub_id=BQOBTPjlXIxovxjV",
+              "url": "https://t.co/xo04ACicm2"
+            },
+            {
+              "display_url": "pic.x.com/VcdFdTHAaT",
+              "end": 153,
+              "expanded_url": "https://x.com/Chanyfgh/status/1984314743776215168/photo/1",
+              "media_key": "3_1984314731151441925",
+              "start": 130,
+              "url": "https://t.co/VcdFdTHAaT"
+            },
+            {
+              "display_url": "pic.x.com/VcdFdTHAaT",
+              "end": 153,
+              "expanded_url": "https://x.com/Chanyfgh/status/1984314743776215168/photo/1",
+              "media_key": "3_1984314730719428610",
+              "start": 130,
+              "url": "https://t.co/VcdFdTHAaT"
+            },
+            {
+              "display_url": "pic.x.com/VcdFdTHAaT",
+              "end": 153,
+              "expanded_url": "https://x.com/Chanyfgh/status/1984314743776215168/photo/1",
+              "media_key": "3_1984314733529640960",
+              "start": 130,
+              "url": "https://t.co/VcdFdTHAaT"
+            },
+            {
+              "display_url": "pic.x.com/VcdFdTHAaT",
+              "end": 153,
+              "expanded_url": "https://x.com/Chanyfgh/status/1984314743776215168/photo/1",
+              "media_key": "3_1984314733097541632",
+              "start": 130,
+              "url": "https://t.co/VcdFdTHAaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984314743776215168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "教你在线赚美元\n\n这个是世界TOP3的AI公司Perplexity为了抢占市场份额，为自家AI浏览器Comet做的拉新活动。很多人都在做，质量有保证。无成本风险。教程看不懂的地方就去Google一下\n\n邀请链接\nhttps://t.co/xo04ACicm2 https://t.co/VcdFdTHAaT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-02-11T02:30:20.000Z",
+        "description": "MTF 天空树女孩 HRT From 6.21.2022    \n 是@chengyiga的老婆 也是主仆关系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "chengyiga"
+              }
+            ]
+          }
+        },
+        "id": "830242535360507904",
+        "location": "六安",
+        "name": "洛米酱 Kuromi-chan",
+        "pinned_tweet_id": "1707687013229691289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611347283123245058/HHQ20db0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 409,
+          "like_count": 691,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 358
+        },
+        "username": "Chanyfgh",
+        "verified": false
+      }
+    ]
+  }
+}

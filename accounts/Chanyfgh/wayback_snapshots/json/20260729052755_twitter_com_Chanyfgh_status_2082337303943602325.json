@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "830242535360507904",
+    "conversation_id": "2063797757392101670",
+    "created_at": "2026-07-29T05:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T06:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082337303943602325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1615534011606261760",
+          "start": 0,
+          "username": "mayu_gid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082337303943602325",
+    "in_reply_to_user_id": "1615534011606261760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063797757392101670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mayu_gid 我也是这样认为的，支持你的观点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830242535360507904",
+        "conversation_id": "2063797757392101670",
+        "created_at": "2026-07-29T05:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082337303943602325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1615534011606261760",
+              "start": 0,
+              "username": "mayu_gid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082337303943602325",
+        "in_reply_to_user_id": "1615534011606261760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063797757392101670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mayu_gid 我也是这样认为的，支持你的观点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615534011606261760",
+        "conversation_id": "2063797757392101670",
+        "created_at": "2026-06-08T01:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T02:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063797757392101670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Naotan_Persona…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Naotan_Personal/status/2063497294981574661",
+              "start": 141,
+              "url": "https://t.co/cMFkQ1eSj4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063797757392101670",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7038,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063497294981574661",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "なにか起きた場合責任取らされるのは医師。立派な医療過誤なのだから。\n自己責任とか言っているけど周囲を巻き込んだ自分勝手。\n\n↓実質これと一緒\n\n患者：「風邪引きました」\n医師：「じゃあ風邪だね」\n1週間後…\n実は患者はハンタウイルスに感染していてそのまま死亡。医師が責任取らされる https://t.co/cMFkQ1eSj4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-02-11T02:30:20.000Z",
+        "description": "MTF 天空树女孩 HRT From 6.21.2022    \n 是@chengyiga的老婆 也是主仆关系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "chengyiga"
+              }
+            ]
+          }
+        },
+        "id": "830242535360507904",
+        "location": "六安",
+        "name": "洛米酱 Kuromi-chan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611347283123245058/HHQ20db0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 540,
+          "like_count": 820,
+          "listed_count": 4,
+          "media_count": 79,
+          "tweet_count": 453
+        },
+        "url": "",
+        "username": "Chanyfgh",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-18T02:18:44.000Z",
+        "description": "MtF (診断済み)｜24年〜 HRT｜25年 声オペ｜26年改名｜鬱、ASD、強迫性障害",
+        "id": "1615534011606261760",
+        "name": "まゆ",
+        "pinned_tweet_id": "2057388481002066133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066779935570837504/bhkgSQn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 87,
+          "like_count": 1694,
+          "listed_count": 4,
+          "media_count": 27,
+          "tweet_count": 547
+        },
+        "url": "",
+        "username": "mayu_gid",
+        "verified": false
+      }
+    ]
+  }
+}

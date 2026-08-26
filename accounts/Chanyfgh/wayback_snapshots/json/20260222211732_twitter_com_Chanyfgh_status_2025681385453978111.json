@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "830242535360507904",
+    "conversation_id": "2025610712106799136",
+    "created_at": "2026-02-22T21:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T22:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025681385453978111"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 9,
+          "normalized_text": "中国",
+          "probability": 0.8754,
+          "start": 8,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1006469180",
+          "start": 0,
+          "username": "ona_co"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025681385453978111",
+    "in_reply_to_user_id": "1006469180",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025610712106799136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ona_co 中国から来たトランス女性です。これまで、こういった状況は簡体字圏のネット（簡中ネット）特有の問題だと思っていましたが、あなたの記事を読んで、決してそれだけではないのだと気づかされました。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830242535360507904",
+        "conversation_id": "2025610712106799136",
+        "created_at": "2026-02-22T21:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T22:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025681385453978111"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "中国",
+              "probability": 0.8754,
+              "start": 8,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1006469180",
+              "start": 0,
+              "username": "ona_co"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025681385453978111",
+        "in_reply_to_user_id": "1006469180",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025610712106799136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ona_co 中国から来たトランス女性です。これまで、こういった状況は簡体字圏のネット（簡中ネット）特有の問題だと思っていましたが、あなたの記事を読んで、決してそれだけではないのだと気づかされました。"
+      },
+      {
+        "article": {
+          "title": "何故トランス当事者ほど、同じ仲間のはずの人たちの言葉にもやっとしてしまうのか？ SNS時代の「言葉」選び"
+        },
+        "attachments": {},
+        "author_id": "1006469180",
+        "conversation_id": "2025610712106799136",
+        "created_at": "2026-02-22T16:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025610712106799136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2025…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2025601887790321664",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2025601887790321664",
+              "url": "https://t.co/Tad4SJbF4H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025610712106799136",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 2036,
+          "like_count": 59,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Tad4SJbF4H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-02-11T02:30:20.000Z",
+        "description": "MTF 天空树女孩 HRT From 6.21.2022    \n 是@chengyiga的老婆 也是主仆关系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "chengyiga"
+              }
+            ]
+          }
+        },
+        "id": "830242535360507904",
+        "location": "六安",
+        "name": "洛米酱 Kuromi-chan",
+        "pinned_tweet_id": "1707687013229691289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611347283123245058/HHQ20db0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 430,
+          "like_count": 718,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 369
+        },
+        "username": "Chanyfgh",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-12T14:24:41.000Z",
+        "description": "乙女塾メイク講師✨トランスジェンダー女性、女装、もちろん誰でも歓迎！メイク歴10年以上👑 一人一人に寄り添う、人生を変えるオーダーメイドなメイクレッスン💄マンツーマンで初心者〜上級者まであなたに最適なメイクを提案🎖️美容師・教員免許 / 色彩検定1級 / パーソナルカラー / コスメコンシェルジュインストラクター",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "repitte.jp/reserve/store?…",
+                "end": 23,
+                "expanded_url": "https://repitte.jp/reserve/store?token=4722c071c4d58b207c3062f372b38dbd",
+                "start": 0,
+                "url": "https://t.co/6M8jYQW2Yp"
+              }
+            ]
+          }
+        },
+        "id": "1006469180",
+        "location": "レッスン予約はこちら👉",
+        "name": "なお | 乙女塾メイク講師✨",
+        "pinned_tweet_id": "2018570662990979318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018520078145429504/ot3Iiuwt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10242,
+          "following_count": 5277,
+          "like_count": 19667,
+          "listed_count": 85,
+          "media_count": 2524,
+          "tweet_count": 13583
+        },
+        "url": "https://t.co/6M8jYQW2Yp",
+        "username": "ona_co",
+        "verified": true
+      }
+    ]
+  }
+}

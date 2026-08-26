@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "830242535360507904",
+    "conversation_id": "1999885766307250269",
+    "created_at": "2025-12-14T16:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T17:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000236267087561121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1998454219020664832",
+          "start": 0,
+          "username": "tabiokasuki"
+        },
+        {
+          "end": 24,
+          "id": "1969763627210342400",
+          "start": 13,
+          "username": "xueyanmiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000236267087561121",
+    "in_reply_to_user_id": "1998454219020664832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000165397505671550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tabiokasuki @xueyanmiao 不同的院校差异非常巨大。大陆的院校管理基本都是原则上不允许外宿。我在的学校也是。后面通过提交性别不一致病历与证明和家长同意书，最后学校允许退宿租房住。但是即使是这样也可能对于其他人困难重重。现在开医学证明越来越难开，也不是每个跨女/男的家长都能理解和支持(这影响的家长是否允许外宿)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830242535360507904",
+        "conversation_id": "1999885766307250269",
+        "created_at": "2025-12-14T16:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T17:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000236267087561121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1998454219020664832",
+              "start": 0,
+              "username": "tabiokasuki"
+            },
+            {
+              "end": 24,
+              "id": "1969763627210342400",
+              "start": 13,
+              "username": "xueyanmiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000236267087561121",
+        "in_reply_to_user_id": "1998454219020664832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000165397505671550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tabiokasuki @xueyanmiao 不同的院校差异非常巨大。大陆的院校管理基本都是原则上不允许外宿。我在的学校也是。后面通过提交性别不一致病历与证明和家长同意书，最后学校允许退宿租房住。但是即使是这样也可能对于其他人困难重重。现在开医学证明越来越难开，也不是每个跨女/男的家长都能理解和支持(这影响的家长是否允许外宿)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998454219020664832",
+        "conversation_id": "1999885766307250269",
+        "created_at": "2025-12-14T11:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T12:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000165397505671550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1969763627210342400",
+              "start": 0,
+              "username": "xueyanmiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000165397505671550",
+        "in_reply_to_user_id": "1969763627210342400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999885766307250269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xueyanmiao 可以在外面租屋吗\n看到你们大陆那边的xyn在宿舍的各种规定都觉得好心疼好辛苦啊🥹\n辅导员看我这样当初是主动来找我谈话给我安排了个单人间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-02-11T02:30:20.000Z",
+        "description": "MTF 天空树女孩 HRT From 6.21.2022    \n 是@chengyiga的老婆 也是主仆关系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "chengyiga"
+              }
+            ]
+          }
+        },
+        "id": "830242535360507904",
+        "location": "六安",
+        "name": "洛米酱 Kuromi-chan",
+        "pinned_tweet_id": "1707687013229691289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611347283123245058/HHQ20db0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 415,
+          "like_count": 695,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 364
+        },
+        "username": "Chanyfgh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-09T18:06:39.000Z",
+        "description": "帶糖mtf🍭🍬 166/54/34A/大学牲/台北/轻度抑郁\n想變得更漂亮....",
+        "id": "1998454219020664832",
+        "location": "Taipei City, Taiwan",
+        "name": "白葡萄（努力变漂亮版🩵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000164941152833536/7TUiGMjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 67,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "username": "tabiokasuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T14:01:21.000Z",
+        "description": "宅舞(想当小偶像)/cos/化妆/物理/pjsk/木桶饭🏳️‍⚧️(rle中)/小证含糖🍥/抑郁治疗中",
+        "id": "1969763627210342400",
+        "name": "雪嫣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970180949163024385/THrMERi7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 66,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 83
+        },
+        "username": "xueyanmiao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "830242535360507904",
+    "conversation_id": "2073167023279108307",
+    "created_at": "2026-07-03T22:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T23:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073167023279108307"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073167023279108307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因为店里魔爪优惠活动取消了。昨天前天就没买没喝，体验了一把起床后没喝魔爪的生活，好家伙，直接给我撂倒了，没干什么就累的动不了，魔爪戒断吗？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830242535360507904",
+        "conversation_id": "2073167023279108307",
+        "created_at": "2026-07-03T22:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T23:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073167023279108307"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073167023279108307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为店里魔爪优惠活动取消了。昨天前天就没买没喝，体验了一把起床后没喝魔爪的生活，好家伙，直接给我撂倒了，没干什么就累的动不了，魔爪戒断吗？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-02-11T02:30:20.000Z",
+        "description": "MTF 天空树女孩 HRT From 6.21.2022    \n 是@chengyiga的老婆 也是主仆关系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "chengyiga"
+              }
+            ]
+          }
+        },
+        "id": "830242535360507904",
+        "location": "六安",
+        "name": "洛米酱 Kuromi-chan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611347283123245058/HHQ20db0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 513,
+          "like_count": 798,
+          "listed_count": 4,
+          "media_count": 72,
+          "tweet_count": 418
+        },
+        "url": "",
+        "username": "Chanyfgh",
+        "verified": false
+      }
+    ]
+  }
+}

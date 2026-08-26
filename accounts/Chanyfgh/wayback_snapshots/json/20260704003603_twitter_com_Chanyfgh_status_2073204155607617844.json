@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "830242535360507904",
+    "conversation_id": "2073167023279108307",
+    "created_at": "2026-07-04T00:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T01:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073204155607617844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1945334723628437504",
+          "start": 0,
+          "username": "10xmx01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073204155607617844",
+    "in_reply_to_user_id": "1945334723628437504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073180124648964296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10xmx01 我觉得可能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830242535360507904",
+        "conversation_id": "2073167023279108307",
+        "created_at": "2026-07-04T00:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T01:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073204155607617844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1945334723628437504",
+              "start": 0,
+              "username": "10xmx01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073204155607617844",
+        "in_reply_to_user_id": "1945334723628437504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073180124648964296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10xmx01 我觉得可能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945334723628437504",
+        "conversation_id": "2073167023279108307",
+        "created_at": "2026-07-03T23:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T00:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073180124648964296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "830242535360507904",
+              "start": 0,
+              "username": "Chanyfgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073180124648964296",
+        "in_reply_to_user_id": "830242535360507904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073167023279108307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chanyfgh 咖啡因戒断？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-02-11T02:30:20.000Z",
+        "description": "MTF 天空树女孩 HRT From 6.21.2022    \n 是@chengyiga的老婆 也是主仆关系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "chengyiga"
+              }
+            ]
+          }
+        },
+        "id": "830242535360507904",
+        "location": "六安",
+        "name": "洛米酱 Kuromi-chan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611347283123245058/HHQ20db0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 513,
+          "like_count": 798,
+          "listed_count": 4,
+          "media_count": 72,
+          "tweet_count": 419
+        },
+        "url": "",
+        "username": "Chanyfgh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T04:09:04.000Z",
+        "description": "ADHD\n无用的人\nFDU数\n我🌿nm的期末",
+        "id": "1945334723628437504",
+        "location": "五角场",
+        "name": "鲨比OUO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055348696234221568/AlioBl6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 107,
+          "like_count": 19296,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1192
+        },
+        "url": "",
+        "username": "10xmx01",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "830242535360507904",
+    "conversation_id": "2050488795263554032",
+    "created_at": "2026-05-02T11:17:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T12:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050535223755215044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1938210111992074240",
+          "start": 0,
+          "username": "FJUNNNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050535223755215044",
+    "in_reply_to_user_id": "1938210111992074240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050488795263554032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FJUNNNN 但是拼多多上的雌激素贴片实际上是国内发货的，并不是真的国际直邮。感觉以这个价格买假货还是挺不值的，否则我也很想下手"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050488784895242240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHTMr5eacAA7uOf.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050488785243398144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHTMr6xa4AAElQt.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830242535360507904",
+        "conversation_id": "2050488795263554032",
+        "created_at": "2026-05-02T11:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T12:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050535223755215044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1938210111992074240",
+              "start": 0,
+              "username": "FJUNNNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050535223755215044",
+        "in_reply_to_user_id": "1938210111992074240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050488795263554032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FJUNNNN 但是拼多多上的雌激素贴片实际上是国内发货的，并不是真的国际直邮。感觉以这个价格买假货还是挺不值的，否则我也很想下手"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050488784895242240",
+            "3_2050488785243398144"
+          ]
+        },
+        "author_id": "1938210111992074240",
+        "conversation_id": "2050488795263554032",
+        "created_at": "2026-05-02T08:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050488795263554032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tDmRjdrvlo",
+              "end": 157,
+              "expanded_url": "https://x.com/FJUNNNN/status/2050488795263554032/photo/1",
+              "media_key": "3_2050488784895242240",
+              "start": 134,
+              "url": "https://t.co/tDmRjdrvlo"
+            },
+            {
+              "display_url": "pic.x.com/tDmRjdrvlo",
+              "end": 157,
+              "expanded_url": "https://x.com/FJUNNNN/status/2050488795263554032/photo/1",
+              "media_key": "3_2050488785243398144",
+              "start": 134,
+              "url": "https://t.co/tDmRjdrvlo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050488795263554032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1692,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雌二醇贴片可以利用平台价格歧视的算法蹭折扣\n（其他商品也可以类似操作）\n有事没事在pdd搜一搜，看一看，点点收藏，就是不下单\n\n正常情况过几天会给你推包含贴片的折扣页面\n正价200出头的贴片，可以8-9折左右拿下\n\n这是我最近入手的价格( ⁼̴̀ .̫ ⁼̴́ )✧ https://t.co/tDmRjdrvlo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-02-11T02:30:20.000Z",
+        "description": "MTF 天空树女孩 HRT From 6.21.2022    \n 是@chengyiga的老婆 也是主仆关系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "chengyiga"
+              }
+            ]
+          }
+        },
+        "id": "830242535360507904",
+        "location": "六安",
+        "name": "洛米酱 Kuromi-chan",
+        "pinned_tweet_id": "1707687013229691289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611347283123245058/HHQ20db0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 445,
+          "like_count": 726,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 381
+        },
+        "username": "Chanyfgh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T12:18:21.000Z",
+        "description": "「这里是二号机，一号机炸了」大龄MTF，可以叫我米糊或者芙芙（fufu）哦，宝宝们快回来和我互fo吧~",
+        "id": "1938210111992074240",
+        "name": "F菌🏳️‍⚧️",
+        "pinned_tweet_id": "2048244526826008821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938242264343744512/EocErPc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 853,
+          "like_count": 2219,
+          "listed_count": 6,
+          "media_count": 230,
+          "tweet_count": 690
+        },
+        "username": "FJUNNNN",
+        "verified": true
+      }
+    ]
+  }
+}

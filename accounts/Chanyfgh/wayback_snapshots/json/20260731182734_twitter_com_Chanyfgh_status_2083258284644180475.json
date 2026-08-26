@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "830242535360507904",
+    "conversation_id": "2082998300228334012",
+    "created_at": "2026-07-31T18:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T19:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083258284644180475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "193648759",
+          "start": 0,
+          "username": "ripo0079"
+        },
+        {
+          "end": 23,
+          "id": "264901353",
+          "start": 10,
+          "username": "babymoon2002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083258284644180475",
+    "in_reply_to_user_id": "193648759",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083220903585083803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ripo0079 @babymoon2002 411病院で性別適合手術を受けました。とても満足しています。術前術後の写真を見たい方は、お気軽にメッセージください。お友達になりましょう！(この文章は翻訳ツールを使って翻訳しました。)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830242535360507904",
+        "conversation_id": "2082998300228334012",
+        "created_at": "2026-07-31T18:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T19:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083258284644180475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "193648759",
+              "start": 0,
+              "username": "ripo0079"
+            },
+            {
+              "end": 23,
+              "id": "264901353",
+              "start": 10,
+              "username": "babymoon2002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083258284644180475",
+        "in_reply_to_user_id": "193648759",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083220903585083803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ripo0079 @babymoon2002 411病院で性別適合手術を受けました。とても満足しています。術前術後の写真を見たい方は、お気軽にメッセージください。お友達になりましょう！(この文章は翻訳ツールを使って翻訳しました。)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "193648759",
+        "conversation_id": "2082998300228334012",
+        "created_at": "2026-07-31T15:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083220903585083803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "264901353",
+              "start": 0,
+              "username": "babymoon2002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083220903585083803",
+        "in_reply_to_user_id": "264901353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082998300228334012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babymoon2002 411医院？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-02-11T02:30:20.000Z",
+        "description": "MTF 天空树女孩 HRT From 6.21.2022    \n 是@chengyiga的老婆 也是主仆关系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "chengyiga"
+              }
+            ]
+          }
+        },
+        "id": "830242535360507904",
+        "location": "六安",
+        "name": "洛米酱 Kuromi-chan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611347283123245058/HHQ20db0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 541,
+          "like_count": 827,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 462
+        },
+        "url": "",
+        "username": "Chanyfgh",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo(中文:莉珀)🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2035310430252581331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13075,
+          "following_count": 1444,
+          "like_count": 75993,
+          "listed_count": 140,
+          "media_count": 4578,
+          "tweet_count": 55536
+        },
+        "url": "",
+        "username": "ripo0079",
+        "verified": true
+      },
+      {
+        "created_at": "2011-03-12T17:01:01.000Z",
+        "description": "P ¦ ENFP-T ¦ ゆるオタ ¦ 邦ロック ¦ねぐせ。¦🌍️🔚                ¦ミセス¦マルシィ¦mimi¦ 縮小垢\n@tailmoon2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "tailmoon2022"
+              }
+            ]
+          }
+        },
+        "id": "264901353",
+        "location": "メンヘラ属性",
+        "name": "まふゆ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797941829188640768/kV4nXD91_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4718,
+          "following_count": 438,
+          "like_count": 19336,
+          "listed_count": 50,
+          "media_count": 808,
+          "tweet_count": 16314
+        },
+        "url": "",
+        "username": "babymoon2002",
+        "verified": false
+      }
+    ]
+  }
+}

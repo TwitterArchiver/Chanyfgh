@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "830242535360507904",
+    "conversation_id": "2079147242896933265",
+    "created_at": "2026-07-20T10:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T11:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079147242896933265"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079147242896933265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "速求一个医学生帮我研究一下药理，主诉：稳定吃上托莫西汀，现状：需稳定服帕罗西汀。找什么药去替换帕罗西汀不影响抗抑郁作用并且可以和托莫西汀同服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830242535360507904",
+        "conversation_id": "2079147242896933265",
+        "created_at": "2026-07-20T10:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079147242896933265"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079147242896933265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "速求一个医学生帮我研究一下药理，主诉：稳定吃上托莫西汀，现状：需稳定服帕罗西汀。找什么药去替换帕罗西汀不影响抗抑郁作用并且可以和托莫西汀同服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2017-02-11T02:30:20.000Z",
+        "description": "MTF 天空树女孩 HRT From 6.21.2022    \n 是@chengyiga的老婆 也是主仆关系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "chengyiga"
+              }
+            ]
+          }
+        },
+        "id": "830242535360507904",
+        "location": "六安",
+        "name": "洛米酱 Kuromi-chan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611347283123245058/HHQ20db0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 533,
+          "like_count": 808,
+          "listed_count": 4,
+          "media_count": 75,
+          "tweet_count": 441
+        },
+        "url": "",
+        "username": "Chanyfgh",
+        "verified": false
+      }
+    ]
+  }
+}
