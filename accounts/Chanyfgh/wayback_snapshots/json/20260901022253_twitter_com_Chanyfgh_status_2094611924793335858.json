@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "830242535360507904",
+    "conversation_id": "2094507304729395379",
+    "created_at": "2026-09-01T02:22:53.000Z",
+    "display_text_range": [
+      27,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T03:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094611924793335858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1829049294596517889",
+          "start": 0,
+          "username": "slantingbell"
+        },
+        {
+          "end": 26,
+          "id": "2090085041724674049",
+          "start": 14,
+          "username": "XQian_12321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094611924793335858",
+    "in_reply_to_user_id": "1829049294596517889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094611064679985265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@slantingbell @XQian_12321 诶，哪个软件呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830242535360507904",
+        "conversation_id": "2094507304729395379",
+        "created_at": "2026-09-01T02:22:53.000Z",
+        "display_text_range": [
+          27,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T03:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094611924793335858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1829049294596517889",
+              "start": 0,
+              "username": "slantingbell"
+            },
+            {
+              "end": 26,
+              "id": "2090085041724674049",
+              "start": 14,
+              "username": "XQian_12321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094611924793335858",
+        "in_reply_to_user_id": "1829049294596517889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094611064679985265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@slantingbell @XQian_12321 诶，哪个软件呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829049294596517889",
+        "conversation_id": "2094507304729395379",
+        "created_at": "2026-09-01T02:19:28.000Z",
+        "display_text_range": [
+          13,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T03:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094611064679985265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2090085041724674049",
+              "start": 0,
+              "username": "XQian_12321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094611064679985265",
+        "in_reply_to_user_id": "2090085041724674049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094507304729395379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XQian_12321 俄版的电报不科学上网也能正常通信，可以试试（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-02-11T02:30:20.000Z",
+        "description": "MTF 天空树女孩 HRT From 6.21.2022    \n 是@chengyiga的老婆 也是主仆关系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "chengyiga"
+              }
+            ]
+          }
+        },
+        "id": "830242535360507904",
+        "is_identity_verified": false,
+        "location": "六安",
+        "most_recent_tweet_id": "2094611924793335858",
+        "name": "洛米酱 Kuromi-chan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/830242535360507904/1704025745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611347283123245058/HHQ20db0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 549,
+          "like_count": 880,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 490
+        },
+        "url": "",
+        "username": "Chanyfgh",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-29T06:52:06.000Z",
+        "description": "love Stardust forever | learning to draw\nI once pause,I never stand still.And nothing matters but ourselves.",
+        "id": "1829049294596517889",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094611064679985265",
+        "name": "slantingbell",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829049294596517889/1785350011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082535270470279168/cj-1YWx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 163,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 248
+        },
+        "url": "",
+        "username": "slantingbell",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T14:35:31.000Z",
+        "description": "🏳️‍⚧️MtF|一只喵|HRT2026.7.24|无证含糖|(8.27 断药\ning...)|未出柜|出厂:2010.3.20|精神分裂(轻微)|中度焦虑|喜欢发一些碎碎念🫠\n好朋友:@littletaomiao\n一辈子好兄弟:@Dabendaizhixq05",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 93,
+                "username": "littletaomiao"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "Dabendaizhixq05"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XQianyu",
+                "end": 23,
+                "expanded_url": "https://t.me/XQianyu",
+                "start": 0,
+                "url": "https://t.co/kdlTB0m7a3"
+              }
+            ]
+          }
+        },
+        "id": "2090085041724674049",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094507581716762684",
+        "name": "浅雨深言(二代目)",
+        "pinned_tweet_id": "2090086980277449168",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090085041724674049/1787150246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093788153211396097/ebh8gZjj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 44,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 80
+        },
+        "url": "https://t.co/kdlTB0m7a3",
+        "username": "XQian_12321",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
