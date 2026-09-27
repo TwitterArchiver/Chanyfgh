@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "830242535360507904",
+    "conversation_id": "2094814447873524006",
+    "created_at": "2026-09-14T22:05:51.000Z",
+    "display_text_range": [
+      14,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T23:05:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099620669751460320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1716492097467961345",
+          "start": 0,
+          "username": "KawaiRabiori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099620669751460320",
+    "in_reply_to_user_id": "1716492097467961345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094814447873524006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawaiRabiori 关注我馄饨，我现在没有私信你的权限"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 816,
+        "media_key": "3_2094814377094553600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJGk8EaIAA4QG6.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830242535360507904",
+        "conversation_id": "2094814447873524006",
+        "created_at": "2026-09-14T22:05:51.000Z",
+        "display_text_range": [
+          14,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T23:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099620669751460320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1716492097467961345",
+              "start": 0,
+              "username": "KawaiRabiori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099620669751460320",
+        "in_reply_to_user_id": "1716492097467961345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094814447873524006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiRabiori 关注我馄饨，我现在没有私信你的权限"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094814377094553600"
+          ]
+        },
+        "author_id": "1716492097467961345",
+        "conversation_id": "2094814447873524006",
+        "created_at": "2026-09-01T15:47:38.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094814447873524006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gdCf3KwZdU",
+              "end": 23,
+              "expanded_url": "https://x.com/KawaiRabiori/status/2094814447873524006/photo/1",
+              "media_key": "3_2094814377094553600",
+              "start": 0,
+              "url": "https://t.co/gdCf3KwZdU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094814447873524006",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2094814377094553600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 637,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gdCf3KwZdU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2017-02-11T02:30:20.000Z",
+        "description": "MTF 天空树女孩 HRT From 6.21.2022    \n 是@chengyiga的老婆 也是主仆关系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "chengyiga"
+              }
+            ]
+          }
+        },
+        "id": "830242535360507904",
+        "is_identity_verified": false,
+        "location": "六安",
+        "most_recent_tweet_id": "2099620669751460320",
+        "name": "洛米酱 Kuromi-chan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/830242535360507904/1704025745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611347283123245058/HHQ20db0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 551,
+          "like_count": 893,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 494
+        },
+        "url": "",
+        "username": "Chanyfgh",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-23T16:29:51.000Z",
+        "description": "姐姐是@JenieIsNotM\n已成为晚安大人最忠实的淫犬\n主人：@zs_mine",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "JenieIsNotM"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "username": "zs_mine"
+              }
+            ]
+          }
+        },
+        "id": "1716492097467961345",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094814447873524006",
+        "name": "馄饨公主",
+        "pinned_tweet_id": "1771912856596050173",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1716492097467961345/1785826210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084561089833119744/fBm-nDNw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 622,
+          "like_count": 623,
+          "listed_count": 5,
+          "media_count": 65,
+          "tweet_count": 444
+        },
+        "url": "",
+        "username": "KawaiRabiori",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
